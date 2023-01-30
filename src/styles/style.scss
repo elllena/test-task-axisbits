@@ -1,0 +1,24 @@
+//@import './components/_overlayscroll.scss';
+//@import './components/_fancybox.scss';
+//@import './components/_noUislider.scss';
+//@import './components/_tippy.scss';
+
+@import './components/_mixins.scss';
+@import './components/_variable.scss';
+@import './components/_basicUI.scss';
+//@import './components/_fonts';
+
+@import './components/basic';
+
+@import "./components/home/_home.scss";
+
+@import './components/_404';
+
+:root {
+    --vh: 1vh;
+}
+
+
+body {
+    background: white;
+}

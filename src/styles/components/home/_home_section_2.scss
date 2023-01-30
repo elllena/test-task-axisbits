@@ -1,0 +1,39 @@
+.section_2{
+  padding: 120px 0 60px;
+  .services{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 -28px;
+    .service{
+      .top_service{
+        display: flex;
+        align-items: center;
+        justify-content: start;
+        gap: 16px;
+        img{
+          max-width: 12%;
+        }
+      }
+      .title_service{
+        font-size: 32px;
+        font-weight: bold;
+      }
+      .short_desc_service{
+        font-size: 18px;
+        padding: 16px 0 0;
+      }
+      width: calc(33.33% - 56px);
+      padding: 24px;
+      background: #FFFFFF;
+      box-shadow: 0px 4px 20px rgb(154 173 179 / 32%);
+      box-sizing: border-box;
+      white-space: initial;
+      justify-content: space-between;
+      margin: 0 28px 28px;
+
+      &:hover{
+        box-shadow: 0px -2px 6px rgb(116 123 150 / 16%), 0px 6px 16px rgb(160 167 193 / 50%);
+      }
+    }
+  }
+}

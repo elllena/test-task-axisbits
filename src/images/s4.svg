@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="128px" height="128px" viewBox="0 0 128 128" enable-background="new 0 0 128 128" xml:space="preserve">
+<g>
+	<g>
+		<polygon fill="none" points="59.416,28 59.422,31 69,31 69,28 		"/>
+		<rect x="7" y="114" fill="#676767" width="37" height="7"/>
+		<path fill="#ACD9EA" d="M84.178,113H120V33H81.076l0.008,2.979c0,1.668-1.357,3.021-3.027,3.021H71.92
+			C70.307,39,69,37.658,69,35.947V33H58.883l0.006,2.971c0,1.672-1.357,3.029-3.027,3.029h-6.135C48.111,39,47,37.658,47,35.947V33
+			H7v80h36.82H84.178z"/>
+		<rect x="83" y="113" fill="#676767" width="37" height="8"/>
+		<rect x="23" y="46" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="46" y="46" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="69" y="46" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="92" y="46" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="23" y="69" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="46" y="69" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="69" y="69" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="92" y="69" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="23" y="92" fill="#F4EFEF" width="13" height="13"/>
+		<rect x="92" y="92" fill="#F4EFEF" width="13" height="13"/>
+		<path fill="#E36D60" d="M80.422,32L80.365,8.486c0-0.545-0.449-0.486-1-0.486H72.35C71.762,8,70,7.486,70,7.969v7.967
+			C70,16.486,71.053,18,70.502,18H59.465c0,0-0.998-0.951-1.002-1.5l-0.059-7.744C58.404,8.215,57.93,8,57.367,8h-7.016
+			C49.764,8,48,7.486,48,7.969V32v4.947C48,37.457,49.799,39,50.352,39h7.082c0.543,0,1-1.471,1-2.027l-0.633-8.99
+			c0.988-0.209,0,0,0.188-0.189C58.176,27.605,59.146,28,59.412,28H70c1,0,0-0.553,0,0v4v4.947C70,37.457,71.797,39,72.35,39h7.082
+			c0.543,0,1-0.967,1-1.52L80.422,32z"/>
+		<polygon fill="#7D8B95" points="82,91 64.791,91 62.707,91 45,91 45,113.758 45,121 62.707,121 64.791,121 82,121 82,113.758 		
+			"/>
+	</g>
+	<g>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="69" y1="33" x2="59" y2="33"/>
+		
+			<polyline fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" points="
+			47,33 7,33 7,122 121,122 121,33 81,33 		"/>
+		
+			<rect x="22" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="45" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="68" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="91" y="45" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="22" y="68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="45" y="68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="68" y="68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="91" y="68" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="22" y="91" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<rect x="91" y="91" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="15" height="15"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="7" y1="114" x2="44" y2="114"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="117" y1="114" x2="120" y2="114"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="83" y1="114" x2="109" y2="114"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64" y1="91" x2="64" y2="94"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="64" y1="102" x2="64" y2="120"/>
+		
+			<line fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="1" y1="122" x2="126" y2="122"/>
+		<path fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" d="
+			M80.365,8.484c0-1.1-0.9-1.484-2-1.484H72.35C71.25,7,70,6.869,70,7.969v8.967l-11.787,0.029l0.066-8.48
+			c0-1.1-0.812-1.484-1.912-1.484h-6.016C49.252,7,48,6.869,48,7.969v11.016V25v10.947c0,1.1,1.252,3.053,2.352,3.053h6.082
+			c1.102,0,2-0.926,2-2.027L58.412,28H70v7.947c0,1.1,1.25,3.053,2.35,3.053h6.082c1.102,0,2-1.168,2-2.27L80.365,8.484z"/>
+		
+			<rect x="45" y="91" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" width="38" height="31"/>
+	</g>
+</g>
+</svg>
